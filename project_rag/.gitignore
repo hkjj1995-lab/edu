@@ -1,0 +1,5 @@
+.env
+.mcp.json
+.rag_index.pkl
+*.pkl
+__pycache__/
